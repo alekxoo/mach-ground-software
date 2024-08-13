@@ -1,7 +1,7 @@
 # Jetson: 
 > Once powered ON, it should automatically start and run a script that essentially waits for GND station to connect and control.
-> 1) Post power initialization script 
-> 2) Vehicle Detection Algorithm 
+1) Post power initialization script 
+2) Vehicle Detection Algorithm 
 - Starts automatically when powered ON 
 - Runs start up script that initializes basic services
 - Waits for commands from the remote computer
